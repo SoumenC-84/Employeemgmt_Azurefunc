@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/EmployeeManagement.Functions/">
+    <Project Path="EmployeeManagement.Functions/EmployeeManagement_Functions.csproj" />
+  </Folder>
+</Solution>
